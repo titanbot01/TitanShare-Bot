@@ -1,6 +1,10 @@
 # TitanSharing-Bot
 
 <p align="center">
+  <img src="https://telegra.ph/file/bba0f8fdd3f177bb87a76.jpg" alt="TitanShare-Bot Logo">
+</p>
+
+<p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
