@@ -1,4 +1,4 @@
-# File-sharing-Bot
+# TitanSharing-Bot
 
 <p align="center">
   <a href="https://www.python.org">
@@ -8,10 +8,10 @@
     <img src="https://github.com/titanbot01/PyrogramGenStr/blob/main/resources/madebytitan-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/titanbot01">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/Pirats%20%F0%9D%95%8F%20Titans-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/TitanMattersSupport">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/Pirates%20%F0%9D%95%8F%20Titans-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
   <a href="https://github.com/titanbot01/TitanShare-Bot/stargazers">
