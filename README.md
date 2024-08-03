@@ -4,7 +4,7 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/titanbot01">
+  <a href="https://t.me/TitanXBots">
     <img src="https://github.com/titanbot01/PyrogramGenStr/blob/main/resources/madebytitan-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/titanbot01">
