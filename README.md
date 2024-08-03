@@ -1,4 +1,4 @@
-# TitanSharing-Bot
+# TitanShare-Bot
 
 <p align="center">
   <img src="https://telegra.ph/file/bba0f8fdd3f177bb87a76.jpg" alt="TitanShare-Bot Logo">
